@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499779650836",
+    "project_id": "fir-realtimekotlin-2a2c3",
+    "storage_bucket": "fir-realtimekotlin-2a2c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499779650836:android:3cc916d8b8da0469faae01",
+        "android_client_info": {
+          "package_name": "com.example.drugtester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4w4ejJ29uoU5Hsukz63A1NxNXxMUAZ3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
